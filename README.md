@@ -18,7 +18,6 @@
     align-items: flex-start;
     padding-top: 30px; /* top space */
     gap: 20px;
-    flex-wrap: wrap;
   }
 
   .btn {
@@ -51,15 +50,9 @@
   </a>
 
   <a class="btn"
-     href="https://www.youtube.com/@YourChannelName?sub_confirmation=1"
+     href="https://www.youtube.com/@codionteam?sub_confirmation=1"
      target="_blank">
      🔔 Subscribe
-  </a>
-
-  <a class="btn"
-     href="https://github.com/YourRepoLink"
-     target="_blank">
-     ⭐ GitHub Repo
   </a>
 
 </div>
