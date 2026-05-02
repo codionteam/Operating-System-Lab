@@ -1,0 +1,8 @@
+334:Fahim:foysalmahamudfahim@gmail.com:013227895:CSE:M:12345
+335:Foysal:foysalmahamudfahim@gmail.com:123:CSE:M:335
+337:abc:foysalmahamudfahim@gmail.com:123:SWE:A:337
+380:Sharmin Akter Jame:jamesharminakter@gmail.com:01521796970:CSE:M:380
+689:Jannatul Ferdaues:jannatul.ferdaues.soha@gmail.com:01601315415:CSE:M:689
+038:Rifah Sunjida Urmee:urmee2305101038@diu.edu.bd:01378965412:CSE:M:000
+130:Rifah Sunjidha Remu:remu2305101130@diu.edu.bd:01536985214:CSE:M:130
+100:Abj:100:100:CSE:M:100
